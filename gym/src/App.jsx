@@ -1,6 +1,6 @@
-import { useState } from 'react'
+
 import Login from "./pages/Login";
-import './App.css'
+import './App.css';
 
 function App() {
  
@@ -9,7 +9,7 @@ function App() {
     <>
      <Login></Login>
     </>
-  )
+  );
 }
 
 export default App;
